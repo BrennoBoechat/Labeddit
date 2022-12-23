@@ -6,7 +6,7 @@ As principais tecnologias usadas foram React JS, Styled Components, Axios, React
 
 Um projeto feito pensando em dispositivos móveis principalmente, mas também responsivo para WEB.
 
-LINK SURGE: http://upset-treatment.surge.sh/
+LINK SURGE: https://cool-car.surge.sh/
 
 ![image](https://user-images.githubusercontent.com/104531921/185812006-f24817e9-96f6-4da6-9560-69181ca4a0e8.png)
 
